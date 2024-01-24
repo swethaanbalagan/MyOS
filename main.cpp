@@ -184,8 +184,8 @@ void MENU() {
 	gotoxy(35, 2); cprintf("Welcome To Main Menu");
 	gotoxy(30, 4); cprintf(ctime(&t));
 	gotoxy(30, 6); cprintf("%c Calculator", 16);
-	gotoxy(30, 8); cprintf("%c Piaono", 16);
-	gotoxy(30, 10); cprintf("%c Calander", 16);
+	gotoxy(30, 8); cprintf("%c Piano", 16);
+	gotoxy(30, 10); cprintf("%c Calendar", 16);
 	gotoxy(30, 12); cprintf("%c Word Document", 16);
 	gotoxy(30, 14); cprintf("%c StopWatch", 16);
 	gotoxy(30, 16); cprintf("%c Quiz", 16);
